@@ -1,0 +1,284 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ACCEL_FULL_SCALE_DFT	.\settings.h	24;"	d
+ACT_T	.\appl\flw\fsm.h	/^typedef const struct trn_t *(*ACT_T)( struct fsm_t *fsm, EVT_T e );$/;"	t
+ADDR_CAUDALIMETRO	.\appl\fmcmd.h	/^	ADDR_CAUDALIMETRO,$/;"	e
+ADDR_NORIA	.\appl\fmcmd.h	/^	ADDR_NORIA,$/;"	e
+ANY	.\appl\flw\fsm.h	21;"	d
+B115200	.\bsp\platform\SCI\scibrtbl.h	/^	B38400, B57600, B115200,$/;"	e
+B1200	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+B19200	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+B2400	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+B300	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+B38400	.\bsp\platform\SCI\scibrtbl.h	/^	B38400, B57600, B115200,$/;"	e
+B4800	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+B57600	.\bsp\platform\SCI\scibrtbl.h	/^	B38400, B57600, B115200,$/;"	e
+B600	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+B9600	.\bsp\platform\SCI\scibrtbl.h	/^	B300, B600, B1200, B2400, B4800, B9600, B19200,$/;"	e
+BAUD_RATE_DFT	.\settings.h	19;"	d
+BOARD_ID0	.\bsp\platform\IO\ioports.h	26;"	d
+BOARD_ID1	.\bsp\platform\IO\ioports.h	27;"	d
+BOARD_ID2	.\bsp\platform\IO\ioports.h	28;"	d
+BOARD_ID3	.\bsp\platform\IO\ioports.h	29;"	d
+CA	.\appl\flw\fsm.h	28;"	d
+CBSENS_VERSION	.\settings.h	13;"	d
+CI	.\appl\flw\fsm.h	27;"	d
+CS	.\appl\flw\fsm.h	30;"	d
+CT	.\appl\flw\fsm.h	29;"	d
+Call_Constructors	.\prj\Sources\Start08.c	/^static void Call_Constructors(void) {$/;"	f	file:
+DCLR_STATE	.\appl\flw\fsm.h	22;"	d
+EVT_T	.\appl\flw\fsm.h	/^typedef MUInt EVT_T;$/;"	t
+FE	.\bsp\platform\SCI\sci.c	17;"	d	file:
+FLOWMTR_ST	.\appl\flowmtr.c	/^}FLOWMTR_ST;$/;"	t	file:
+FLW_DBG_EN	.\appl\flw\flw.h	24;"	d
+FMTR_NULL	.\appl\fmcmd.h	/^	FMTR_NULL = TPSENS_NULL_CMD,$/;"	e
+FMTR_READ_ALL	.\appl\fmcmd.h	/^	FMTR_READ_ALL,		\/* Reads all FlowMeter parameters *\/$/;"	e
+FORWARD	.\appl\flw\flw.h	/^	REVERSE, FORWARD$/;"	e
+FSM_RUNTIME_INIT	.\appl\flw\fsm.c	18;"	d	file:
+FSM_T	.\appl\flw\fsm.h	/^} FSM_T;$/;"	t
+GRNOISE_THRESHOLD	.\settings.h	30;"	d
+HANDLED	.\appl\flw\fsm.h	31;"	d
+HSENS_CTRL	.\bsp\platform\IO\ioports.h	23;"	d
+HUMSENS_OFF_DELAY	.\settings.h	36;"	d
+HUMSENS_ON_DELAY	.\settings.h	35;"	d
+INIT_T	.\appl\flw\fsm.h	/^typedef void (*INIT_T)( struct fsm_t *fsm );$/;"	t
+INTR_CRITICAL_METHOD	.\bsp\platform\INTR\intr.h	9;"	d
+INTR_MAX_NESTING_CSECT	.\bsp\platform\INTR\intr.h	10;"	d
+Init	.\prj\Sources\Start08.c	/^static void Init(void) {$/;"	f	file:
+LED	.\bsp\platform\IO\ioports.h	24;"	d
+MAIN_TIMER_TIME	.\bsp\mtimecfg\mtimedef.h	12;"	d
+MCU_init	.\prj\Sources\MCUinit.c	/^void MCU_init(void)$/;"	f
+MOVE_DET_DELAY	.\settings.h	47;"	d
+MOVE_DET_THR	.\settings.h	42;"	d
+MOVE_DET_THR	.\settings.h	44;"	d
+NF	.\bsp\platform\SCI\sci.c	16;"	d	file:
+NUM_BAUD	.\bsp\platform\SCI\scibrtbl.h	/^	NUM_BAUD$/;"	e
+NUM_FMTR_CMDS	.\appl\fmcmd.h	/^	NUM_FMTR_CMDS$/;"	e
+NUM_SENSORS_BOX	.\appl\fmcmd.h	/^	NUM_SENSORS_BOX,$/;"	e
+NUM_SIG_PAIRS	.\appl\flw\flw.h	/^	NUM_SIG_PAIRS$/;"	e
+NUM_TIMER_DIVISORS	.\bsp\mtimecfg\mtimedef.h	20;"	d
+OVRN	.\bsp\platform\SCI\sci.c	15;"	d	file:
+PE	.\bsp\platform\SCI\sci.c	18;"	d	file:
+PPS_AVERAGED	.\appl\flw\flw.h	48;"	d
+REVERSE	.\appl\flw\flw.h	/^	REVERSE, FORWARD$/;"	e
+S1S2	.\appl\flw\flw.h	/^	S1S2, S3S4,$/;"	e
+S3S4	.\appl\flw\flw.h	/^	S1S2, S3S4,$/;"	e
+SA0_PIN	.\bsp\platform\IO\ioports.h	20;"	d
+SCI_CALLBACK	.\bsp\platform\SCI\sci.h	/^typedef void(*SCI_CALLBACK)( MUInt );$/;"	t
+SET_PPS	.\appl\flw\flw.c	23;"	d	file:
+SET_PPS	.\appl\flw\flw.c	27;"	d	file:
+SIG_00	.\appl\flw\flw.h	/^	SIG_00,$/;"	e
+SIG_01	.\appl\flw\flw.h	/^	SIG_01,$/;"	e
+SIG_10	.\appl\flw\flw.h	/^	SIG_10,$/;"	e
+SIG_11	.\appl\flw\flw.h	/^	SIG_11,$/;"	e
+STATE	.\appl\flw\flw.c	/^STATE( a0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( a1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( a2 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( b0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( b1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( c0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( c1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( g0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( g1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( h0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( h1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( i0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( i1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( j0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( j1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( k0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( k1 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( m0 )$/;"	f
+STATE	.\appl\flw\flw.c	/^STATE( m1 )$/;"	f
+STATE	.\appl\flw\fsm.h	23;"	d
+TAMAX	.\appl\flw\flw.h	89;"	d
+TBMAX	.\appl\flw\flw.h	97;"	d
+TICK_T	.\appl\flw\timer.h	/^typedef unsigned short TICK_T;$/;"	t
+TIMER_CLEAR	.\appl\flw\timer.h	72;"	d
+TIMER_GET	.\appl\flw\timer.h	74;"	d
+TIMER_IS_OVERFLOW	.\appl\flw\timer.h	73;"	d
+TIMER_MAX_NUM_TIMERS	.\appl\flw\timer.h	20;"	d
+TIM_T	.\appl\flw\timer.h	/^} TIM_T;$/;"	t
+TOS_S1S2	.\appl\flw\flw.h	63;"	d
+TOS_S3S4	.\appl\flw\flw.h	64;"	d
+TOUT	.\appl\flw\flw.h	/^	TOUT$/;"	e
+TPD	.\appl\flw\flw.h	56;"	d
+TPD_PRD	.\appl\flw\flw.h	81;"	d
+TPD_TICK	.\appl\flw\flw.h	71;"	d
+TPLINK_ADDRESSING_ON	.\bsp\tplink\tplcfg.h	31;"	d
+TPLINK_BASE_TIME	.\bsp\tplink\tplcfg.h	39;"	d
+TPLINK_DEV_TYPE	.\bsp\tplink\tplcfg.h	28;"	d
+TPLINK_ESC	.\bsp\tplink\tplcfg.h	35;"	d
+TPLINK_INTER_BYTE_TIME	.\bsp\tplink\tplcfg.h	41;"	d
+TPLINK_INTER_FRAME_TIME	.\bsp\tplink\tplcfg.h	42;"	d
+TPLINK_MAX_PLOAD_SIZE	.\bsp\tplink\tplcfg.h	37;"	d
+TPLINK_SLAVE_ADDRESS	.\bsp\tplink\tplcfg.h	32;"	d
+TPLINK_SOF	.\bsp\tplink\tplcfg.h	34;"	d
+TPL_485DIR	.\bsp\platform\IO\ioports.h	22;"	d
+TPSENS_NULL_CMD	.\appl\fmcmd.h	/^	TPSENS_NULL_CMD,$/;"	e
+TRN	.\appl\flw\fsm.h	24;"	d
+TRN_END	.\appl\flw\fsm.h	26;"	d
+TRN_NONE	.\appl\flw\fsm.h	25;"	d
+TRN_T	.\appl\flw\fsm.h	/^} TRN_T;$/;"	t
+TWMAX	.\appl\flw\flw.h	104;"	d
+UC_B115200	.\bsp\platform\SCI\sci.h	28;"	d
+UC_B1200	.\bsp\platform\SCI\sci.h	20;"	d
+UC_B1440	.\bsp\platform\SCI\sci.h	24;"	d
+UC_B19200	.\bsp\platform\SCI\sci.h	25;"	d
+UC_B2400	.\bsp\platform\SCI\sci.h	21;"	d
+UC_B300	.\bsp\platform\SCI\sci.h	18;"	d
+UC_B38400	.\bsp\platform\SCI\sci.h	26;"	d
+UC_B4800	.\bsp\platform\SCI\sci.h	22;"	d
+UC_B57600	.\bsp\platform\SCI\sci.h	27;"	d
+UC_B600	.\bsp\platform\SCI\sci.h	19;"	d
+UC_B9600	.\bsp\platform\SCI\sci.h	23;"	d
+UNASSIGNED_ISR	.\prj\Sources\MCUinit.c	173;"	d	file:
+_Startup	.\prj\Sources\Start08.c	/^__EXTERN_C void _Startup(void) {$/;"	f
+_Stop	.\prj\Sources\derivative.h	9;"	d
+_Wait	.\prj\Sources\derivative.h	12;"	d
+__8MHz__	.\bsp\platform\SCI\sci.h	16;"	d
+__DRIVERS_H__	.\bsp\drivers.h	9;"	d
+__EXTERN_C	.\prj\Sources\Start08.c	24;"	d	file:
+__EXTERN_C	.\prj\Sources\Start08.c	26;"	d	file:
+__FEED_COP_IN_HLI	.\prj\Sources\Start08.c	47;"	d	file:
+__FEED_COP_IN_HLI	.\prj\Sources\Start08.c	49;"	d	file:
+__FLOWMTR_H__	.\appl\flowmtr.h	6;"	d
+__FLWACT_H__	.\appl\flw\flwact.h	14;"	d
+__FLW_H__	.\appl\flw\flw.h	14;"	d
+__FMCMD_H__	.\appl\fmcmd.h	6;"	d
+__FSM_H__	.\appl\flw\fsm.h	14;"	d
+__INITSYS_H__	.\init\initsys.h	5;"	d
+__INTR_H__	.\bsp\platform\INTR\intr.h	7;"	d
+__IOPORTS_H__	.\bsp\platform\IO\ioports.h	11;"	d
+__NO_FLAGS_OFFSET	.\prj\Sources\Start08.c	18;"	d	file:
+__NO_MAIN_OFFSET	.\prj\Sources\Start08.c	19;"	d	file:
+__PLATFORM_H__	.\bsp\platform\platform.h	10;"	d
+__SCIBRTBLE_H__	.\bsp\platform\SCI\scibrtbl.h	6;"	d
+__SCI_H__	.\bsp\platform\SCI\sci.h	10;"	d
+__SETTINGS_H__	.\settings.h	5;"	d
+__TIMER_H__	.\appl\flw\timer.h	14;"	d
+__TPLCFG_H__	.\bsp\tplink\tplcfg.h	22;"	d
+__TPLINK_DBG__	.\bsp\tplink\tplcfg.h	26;"	d
+__USE_TPLINK_ONCHERR_CBF__	.\bsp\tplink\tplcfg.h	46;"	d
+__USE_TPLINK_ONXMIT_CMP_CBF__	.\bsp\tplink\tplcfg.h	45;"	d
+__flowmtr_H	.\prj\Sources\MCUinit.h	26;"	d
+_kick_hw_watchdog	.\bsp\platform\INTR\intr.h	37;"	d
+_reset_mcu	.\bsp\platform\INTR\intr.h	32;"	d
+_startupData	.\prj\Sources\Start08.c	/^struct _tagStartup _startupData;    \/* read-only:$/;"	v
+a0	.\appl\flw\flw.c	/^DCLR_STATE( a0 );$/;"	v
+a1	.\appl\flw\flw.c	/^DCLR_STATE( a1 );$/;"	v
+a2	.\appl\flw\flw.c	/^DCLR_STATE( a2 );$/;"	v
+action	.\appl\flw\fsm.h	/^	ACT_T action;$/;"	m	struct:trn_t
+actions_1000	.\bsp\mtimecfg\mtimetbl.c	/^static void(* const actions_1000[])( void ) =$/;"	v	file:
+actions_2	.\bsp\mtimecfg\mtimetbl.c	/^static void(* const actions_2[])( void ) =$/;"	v	file:
+actions_20	.\bsp\mtimecfg\mtimetbl.c	/^static void(* const actions_20[])( void ) =$/;"	v	file:
+b0	.\appl\flw\flw.c	/^DCLR_STATE( b0 );$/;"	v
+b1	.\appl\flw\flw.c	/^DCLR_STATE( b1 );$/;"	v
+c0	.\appl\flw\flw.c	/^DCLR_STATE( c0 );$/;"	v
+c1	.\appl\flw\flw.c	/^DCLR_STATE( c1 );$/;"	v
+ccr_sp	.\bsp\platform\INTR\intr.c	/^static unsigned int ccr_sp;$/;"	v	file:
+ccr_sp_mem	.\bsp\platform\INTR\intr.c	/^static unsigned char ccr_sp_mem[ INTR_MAX_NESTING_CSECT ];$/;"	v	file:
+disable_interrupt	.\bsp\platform\INTR\intr.h	27;"	d
+drivers_init	.\bsp\drivers.c	/^drivers_init(void)$/;"	f
+enable_interrupt	.\bsp\platform\INTR\intr.h	26;"	d
+enter_critical	.\bsp\platform\INTR\intr.c	/^enter_critical( void )$/;"	f
+event	.\appl\flw\fsm.h	/^	EVT_T event;$/;"	m	struct:trn_t
+exit_critical	.\bsp\platform\INTR\intr.c	/^exit_critical( void )$/;"	f
+f1	.\appl\flowmtr.c	/^	uchar f1;$/;"	m	file:
+f1dir	.\appl\flowmtr.c	/^	uchar f1dir;$/;"	m	file:
+f2	.\appl\flowmtr.c	/^	uchar f2;$/;"	m	file:
+f2dir	.\appl\flowmtr.c	/^	uchar f2dir;$/;"	m	file:
+flowdir	.\appl\flw\fsm.h	/^	unsigned flowdir:1;		\/* flow direction *\/ $/;"	m	struct:fsm_t
+flw_get_flowdir	.\appl\flw\flw.c	/^flw_get_flowdir( MUInt fsm )$/;"	f
+flw_get_pps	.\appl\flw\flw.c	/^flw_get_pps( MUInt fsm )$/;"	f
+flw_init	.\appl\flw\flw.c	/^flw_init( void )$/;"	f
+flw_process	.\appl\flw\flw.c	/^flw_process( MUInt fsm, unsigned char sig )$/;"	f
+flwmtr_proc	.\appl\flowmtr.c	/^flwmtr_proc( void )$/;"	f
+flwprint	.\appl\flw\flw.h	34;"	d
+flwprint	.\appl\flw\flw.h	40;"	d
+fm	.\appl\flowmtr.c	/^static FLOWMTR_ST fm;$/;"	v	file:
+fsm_dispatch	.\appl\flw\fsm.c	/^fsm_dispatch( MUInt fsm, EVT_T e )$/;"	f
+fsm_init	.\appl\flw\fsm.c	/^fsm_init( MUInt fsm )$/;"	f
+fsm_t	.\appl\flw\fsm.h	/^typedef struct fsm_t$/;"	s
+fsms	.\appl\flw\flw.c	/^FSM_T fsms[] = $/;"	v
+g0	.\appl\flw\flw.c	/^DCLR_STATE( g0 );$/;"	v
+g1	.\appl\flw\flw.c	/^DCLR_STATE( g1 );$/;"	v
+h0	.\appl\flw\flw.c	/^DCLR_STATE( h0 );$/;"	v
+h1	.\appl\flw\flw.c	/^DCLR_STATE( h1 );$/;"	v
+h2ns	.\appl\flowmtr.c	24;"	d	file:
+hf1	.\appl\flw\fsm.h	/^	unsigned hf1:1;			\/* half cycle 1 complete. Used in startup time. *\/$/;"	m	struct:fsm_t
+hf2	.\appl\flw\fsm.h	/^	unsigned hf2:1;			\/* half cycle 2 complete. Used in startup time. *\/$/;"	m	struct:fsm_t
+host_rcv_isr	.\bsp\platform\SCI\sci.c	/^host_rcv_isr( void )$/;"	f
+host_sci1_init	.\bsp\platform\SCI\sci.c	/^host_sci1_init( unsigned short baud_rate )$/;"	f
+host_sci1_setbd	.\bsp\platform\SCI\sci.c	/^host_sci1_setbd( unsigned short baud_rate )$/;"	f
+host_xmit_isr	.\bsp\platform\SCI\sci.c	/^host_xmit_isr( void )$/;"	f
+i0	.\appl\flw\flw.c	/^DCLR_STATE( i0 );$/;"	v
+i1	.\appl\flw\flw.c	/^DCLR_STATE( i1 );$/;"	v
+inc_pulse	.\appl\flw\flwact.c	/^inc_pulse( FSM_T *fsm, EVT_T e )$/;"	f
+init_action	.\appl\flw\fsm.h	/^	INIT_T init_action;		\/* initial action *\/$/;"	m	struct:fsm_t
+init_critical	.\bsp\platform\INTR\intr.c	/^init_critical( void )$/;"	f
+init_system	.\init\initsys.c	/^init_system( void )$/;"	f
+init_tpl_hal	.\bsp\tplink\tplhal.c	/^init_tpl_hal( void )$/;"	f
+isrVmtim	.\prj\Sources\MCUinit.c	/^__interrupt void isrVmtim(void)$/;"	f
+isrVscierr	.\prj\Sources\MCUinit.c	/^__interrupt void isrVscierr(void)$/;"	f
+istate	.\appl\flw\fsm.h	/^	const TRN_T *istate;	\/* initial state *\/$/;"	m	struct:fsm_t
+j0	.\appl\flw\flw.c	/^DCLR_STATE( j0 );$/;"	v
+j1	.\appl\flw\flw.c	/^DCLR_STATE( j1 );$/;"	v
+k0	.\appl\flw\flw.c	/^DCLR_STATE( k0 );$/;"	v
+k1	.\appl\flw\flw.c	/^DCLR_STATE( k1 );$/;"	v
+loadByte	.\prj\Sources\Start08.c	/^static void near loadByte(void) {$/;"	f	file:
+lsig	.\appl\flw\fsm.h	/^	unsigned char lsig;		\/* last value of signal pair *\/$/;"	m	struct:fsm_t
+m0	.\appl\flw\flw.c	/^DCLR_STATE( m0 );$/;"	v
+m1	.\appl\flw\flw.c	/^DCLR_STATE( m1 );$/;"	v
+main	.\main.c	/^main( void )$/;"	f
+next	.\appl\flw\fsm.h	/^	const struct trn_t *next;$/;"	m	struct:trn_t
+none	.\bsp\mtimecfg\mtimetbl.c	/^none( void )$/;"	f
+ntick	.\appl\flw\timer.h	/^	TICK_T ntick;$/;"	m
+ovfw	.\appl\flw\timer.h	/^	unsigned ovfw	:1;$/;"	m
+platform_init	.\bsp\platform\platform.c	/^platform_init(void)$/;"	f
+ports_init	.\bsp\platform\IO\ioports.c	/^ports_init(void)$/;"	f
+ppc	.\appl\flw\fsm.h	/^	unsigned char ppc;		\/* pulses per cycle *\/$/;"	m	struct:fsm_t
+pps	.\appl\flw\fsm.h	/^	unsigned char pps;		\/* pulses per second *\/$/;"	m	struct:fsm_t
+prd	.\appl\flw\timer.h	/^	TICK_T prd;$/;"	m
+reset_cyc	.\appl\flw\flwact.c	/^reset_cyc( FSM_T *fsm, EVT_T e )$/;"	f
+reset_ta	.\appl\flw\flwact.c	/^reset_ta( FSM_T *fsm, EVT_T e )$/;"	f
+s1s2_sig	.\appl\flowmtr.c	59;"	d	file:
+s3s4_sig	.\appl\flowmtr.c	60;"	d	file:
+sci_br_tbl	.\bsp\platform\SCI\scibrtbl.c	/^const unsigned short sci_br_tbl[NUM_BAUD] =$/;"	v
+send_flow	.\appl\flowmtr.c	/^send_flow( void )$/;"	f
+set_flow_dir	.\appl\flw\flwact.c	/^set_flow_dir( FSM_T *fsm )$/;"	f	file:
+sig_init	.\appl\flw\flwact.c	/^sig_init( FSM_T *fsm )$/;"	f
+sp	.\appl\flw\fsm.h	/^	unsigned sp:1;			\/* signal pair id *\/ $/;"	m	struct:fsm_t
+start_dir_cyc	.\appl\flw\flwact.c	/^start_dir_cyc( FSM_T *fsm, EVT_T e )$/;"	f
+start_pulse	.\appl\flw\flwact.c	/^start_pulse( FSM_T *fsm, EVT_T e )$/;"	f
+start_rev_cyc	.\appl\flw\flwact.c	/^start_rev_cyc( FSM_T *fsm, EVT_T e )$/;"	f
+start_ta	.\appl\flw\flwact.c	/^start_ta( FSM_T *fsm, EVT_T e )$/;"	f
+state	.\appl\flw\fsm.h	/^	const TRN_T *state;		\/* current state *\/$/;"	m	struct:fsm_t
+stop_hf1	.\appl\flw\flwact.c	/^stop_hf1( FSM_T *fsm, EVT_T e )$/;"	f
+stop_hf2	.\appl\flw\flwact.c	/^stop_hf2( FSM_T *fsm, EVT_T e )$/;"	f
+ta	.\appl\flw\fsm.h	/^	TICK_T ta;				\/* tA time. Used in startup time. *\/$/;"	m	struct:fsm_t
+tb	.\appl\flw\fsm.h	/^	TICK_T tb;				\/* tB time. Used in startup time.  *\/$/;"	m	struct:fsm_t
+timer_chain	.\bsp\mtimecfg\mtimetbl.c	/^const TIMER_CHAIN timer_chain[] =$/;"	v
+timer_oneshot_tick	.\appl\flw\timer.c	/^timer_oneshot_tick( MUInt fsm )$/;"	f
+timer_periodic_tick	.\appl\flw\timer.c	/^timer_periodic_tick( void )$/;"	f
+timer_start	.\appl\flw\timer.c	/^timer_start( TIM_T *t, TICK_T itick, TICK_T prd )$/;"	f
+timer_stop	.\appl\flw\timer.c	/^timer_stop( TIM_T *t )$/;"	f
+timers	.\appl\flw\timer.c	/^TIM_T timers[ TIMER_MAX_NUM_TIMERS ];$/;"	v
+toCopyDownBegOffs	.\prj\Sources\Start08.c	126;"	d	file:
+toCopyDownBegOffs	.\prj\Sources\Start08.c	128;"	d	file:
+tos	.\appl\flw\fsm.h	/^	TIM_T *tos;				\/* oneshot timer *\/$/;"	m	struct:fsm_t
+tpl_choke_xmit	.\bsp\tplink\tplhal.c	/^tpl_choke_xmit( uchar data )$/;"	f
+tpl_eoftx	.\bsp\tplink\tplhal.c	/^tpl_eoftx( void )$/;"	f
+tpl_stop_xmit	.\bsp\tplink\tplhal.c	/^tpl_stop_xmit( void )$/;"	f
+tpl_xmit	.\bsp\tplink\tplhal.c	/^tpl_xmit( uchar data )$/;"	f
+tplink_onrcv	.\appl\flowmtr.c	/^tplink_onrcv( TPLFRM_T	*p )$/;"	f
+tplink_ontout	.\appl\flowmtr.c	/^tplink_ontout( void )$/;"	f
+trn_t	.\appl\flw\fsm.h	/^typedef struct trn_t$/;"	s
+used	.\appl\flw\timer.h	/^	unsigned used	:1;$/;"	m
+verify_fsm	.\appl\flw\fsm.c	/^verify_fsm( MUInt fsm )$/;"	f
+x0000FFBD	.\prj\Sources\MCUinit.c	/^const unsigned char NVPROT_INIT @0x0000FFBD = 255;$/;"	v
+x0000FFBF	.\prj\Sources\MCUinit.c	/^const unsigned char NVOPT_INIT @0x0000FFBF = 126;$/;"	v
